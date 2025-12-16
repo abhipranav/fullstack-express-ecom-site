@@ -1,0 +1,20 @@
+{
+    "name": "spiral-sounds",
+    "version": "1.0.0",
+    "description": "Online classic vinyl store",
+    "main": "server.js",
+    "type": "module",
+    "scripts": {
+        "start": "nodemon server.js"
+    },
+    "author": "Abhijeet Pranav Mishra",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.21.2",
+        "sqlite": "^5.1.1",
+        "sqlite3": "^5.1.7"
+    },
+    "devDependencies": {
+        "nodemon": "^3.1.11"
+    }
+}
