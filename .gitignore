@@ -3,3 +3,7 @@ node_modules/
 
 # macOS
 .DS_Store
+
+
+#ngrok
+ngrok-v3-stable-linux-amd64.tgz
